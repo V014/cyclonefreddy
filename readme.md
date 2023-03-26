@@ -13,7 +13,7 @@ A banner sized still image fills the landing screen though the visibiity of the 
 
 This is the setion which talks about the topic in question rather the write. This is to simplify the website and concentrate more on the topic itself.
 
-## About
+## Downlaod
 
 <img src ="assets/img/screenshot3.png" alt="Image of download">
 
